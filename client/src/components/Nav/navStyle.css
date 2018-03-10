@@ -1,0 +1,11 @@
+#navbar {
+	color: #ffffff;
+}
+
+#navBG {
+	background-image: url("../../images/man1.jpg");
+	background-position: right bottom;
+	background-size: 100% 500px;
+	background-repeat: none;
+	height: 200px;
+}
